@@ -4,7 +4,7 @@
 # Setup SSH Keys for Visual Studio Code
 - ->cd .ssh (on Mac)
 - ->look for known_hosts.pub
-- ->mkdir .ssh (on Linux at /home/user/
+- ->mkdir .ssh (on Linux at /home/user/)
 - ->ftp known_hosts.pub to /home/user/.ssd/.
 - ->ssh pi@RPI5.local
 - ->Bring up VS Code on Mac
